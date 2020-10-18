@@ -8,6 +8,9 @@
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
+
+**Summary**
+
 Researchers estimate that more than 70 million Americans suffer from a sleep disorder. (Institute of Medicine, 2005) One of the most serious consequences of insufficient sleep is traffic accidents due to drowsy driving.
 
 Experts suspect that even these disturbingly high figures underestimate the number of accidents or near-miss accidents due to drowsy driving because of drivers being unaware or not admitting they were drowsy at the time of the accident, or police not acquiring that information.
@@ -45,6 +48,7 @@ The model developed for the project work uses Python and following open source l
 
 
 **Our Approach**
+
 Step 1 – We have used a laptop with web cam facility to capture the images from video stream
 
 Step 2 – Laptop with python and PyCharm editor installed for programming
@@ -82,7 +86,7 @@ Step 8 – Trigger alarm if the aspect ratio is below the threshold value for pr
 
 ---
 
-## SECTION 5 : USER GUIDE
+## SECTION 5 : INSTALLATION & USER GUIDE
 
 `Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
 
