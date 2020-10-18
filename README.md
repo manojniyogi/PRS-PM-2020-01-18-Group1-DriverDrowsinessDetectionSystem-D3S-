@@ -95,13 +95,13 @@ Step 8 – Trigger alarm if the aspect ratio is below the threshold value for pr
 
 ## SECTION 5 : INSTALLATION & USER GUIDE
 
-`Refer to "Driver Drowsiness Detection(D3S) - Project Insatallation-User Guide.docx" file at Github Folder: ProjectReport`
+`Refer to "Driver Drowsiness Detection(D3S) - Project Insatallation-User Guide.docx" document at Github Folder: ProjectReport`
 
 ---
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`Refer to project report at Github Folder: ProjectReport`
+`Refer to "Driver Drowsiness Detection(D3S) - Project Report.docx' document at Github Folder: ProjectReport`
 
 ---
 
