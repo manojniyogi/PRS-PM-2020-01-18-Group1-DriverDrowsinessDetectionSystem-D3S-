@@ -26,24 +26,31 @@ This technique monitors the state of eyes and if both the eyes are in a closed s
 
 
 **Development Methodology**
+
 The approach follows the CRISP-DM process. It consists of five stages, as listed below:
 1)	Understand the Business Requirements
 2)	Understanding & Analyzing the Data
-3)	Build the model
-4)	Verify / Optimize the model
-5)	Analyze the results and reveal the insights
+3)	Verify / Optimize the model
+4)	Analyze the results and reveal the insights
 The approach uses pre-trained model and follows technique termed as Transfer Learning. We have picked up the pretrained model from http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2. 
 The adopted approach is algorithmically simple, intuitive, and easy to implement. It is easily portable to different platforms. It is computationally in expensive as the training is done offline and the trained model is picked up for use.
 
 **Technologies Used**
+
 The model developed for the project work uses Python and following open source libraries:
+
 •	Numpy – Statistical and Scientific Computing
+
 •	Cv2 – Computer Vision library
+
 •	Dlib – Predictor and detector library
+
 •	Imutils – Utility library for object landmarks
+
 •	Matplotlib – Graphing library
 
 **Environment Used**
+
 •	PyCharm community edition for interactive computing environment for coding in python.
 
 
